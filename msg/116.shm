@@ -1,0 +1,13 @@
+;;; Sierra Script
+;;; 116.shm -- Produced by SCI Companion
+;;; This file should only be edited with the SCI Companion message editor
+
+;;; CASES
+
+
+;;; NOUNS
+
+(define N_ROOM 1)
+(define N_GOONS 2)
+(define N_BOX 3)
+

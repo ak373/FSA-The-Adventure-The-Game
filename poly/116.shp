@@ -1,0 +1,9 @@
+;;; Sierra Script 1.0 - (do not remove this comment)
+;;; 116.shp -- Produced by SCI Companion
+;;; This file should only be edited with the SCI Companion polygon editor
+
+
+(local
+	[P_Default116 65] = [1 PContainedAccess 31 84 30 58 42 46 50 36 63 31 80 32 97 40 113 43 120 61 137 77 146 135 174 202 189 319 189 319 164 283 154 251 159 254 179 246 180 206 171 179 169 146 162 115 149 88 133 75 116 66 94 64 76 67 58 74 49 84 41 90 35 100 32]
+	[P_Goons 29] = [1 PBarredAccess 13 305 137 301 154 304 164 305 169 268 172 252 170 250 155 246 153 238 122 246 112 257 114 273 116 299 117]
+)

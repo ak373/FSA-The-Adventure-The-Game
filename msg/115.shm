@@ -1,0 +1,17 @@
+;;; Sierra Script
+;;; 115.shm -- Produced by SCI Companion
+;;; This file should only be edited with the SCI Companion message editor
+
+;;; NOUNS
+
+(define N_ROOM 1)
+(define N_JOE 2)
+(define N_PENNY 3)
+(define N_MINIMAGICDOOR 4)
+(define N_MAGICSHELVES 5)
+(define N_MAGICWINDOW 6)
+(define N_CRYSTALBALL 7)
+
+;;; CASES
+
+

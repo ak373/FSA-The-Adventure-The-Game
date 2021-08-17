@@ -1,0 +1,18 @@
+;;; Sierra Script
+;;; 111.shm -- Produced by SCI Companion
+;;; This file should only be edited with the SCI Companion message editor
+
+;;; CASES
+
+
+;;; NOUNS
+
+(define N_ROOM 1)
+(define N_CABINETONE 2)
+(define N_CABINETTWO 3)
+(define N_CABINETTHREE 4)
+(define N_CABINETFOUR 5)
+(define N_CABINETFIVE 6)
+(define N_CANDLE 7)
+(define N_CURTAIN 8)
+

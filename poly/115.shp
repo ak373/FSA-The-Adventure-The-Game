@@ -1,0 +1,14 @@
+;;; Sierra Script 1.0 - (do not remove this comment)
+;;; 115.shp -- Produced by SCI Companion
+;;; This file should only be edited with the SCI Companion polygon editor
+
+
+(local
+	[P_Default115 43] = [1 PContainedAccess 20 0 189 281 189 308 171 187 121 184 125 176 126 167 124 160 114 157 113 153 117 124 124 108 138 41 158 41 163 40 167 34 171 23 173 10 173 7 160 0 160]
+	[P_Penny 19] = [1 PBarredAccess 8 209 28 212 51 214 61 202 71 200 67 194 60 186 49 190 28]
+	[P_MiniMagicDoor 13] = [1 PBarredAccess 5 245 130 259 128 272 139 272 156 244 143]
+	[P_MagicShelves 17] = [1 PBarredAccess 7 159 107 45 141 33 121 21 56 80 47 98 39 156 30]
+	[P_MagicWindow 53] = [1 PBarredAccess 25 279 10 285 9 293 11 302 15 309 22 308 30 304 35 304 66 295 72 294 78 298 84 297 92 278 84 271 84 273 69 270 52 264 41 255 40 254 32 257 27 252 22 251 17 254 14 259 9 273 8]
+	[P_Joe 37] = [1 PBarredAccess 17 245 72 243 67 246 58 249 51 248 43 256 42 263 44 266 51 269 55 270 68 268 89 268 99 261 101 259 101 255 101 249 100 248 93]
+	[P_CrystalBall 19] = [1 PBarredAccess 8 305 66 314 69 318 75 315 83 307 86 297 83 293 77 297 70]
+)

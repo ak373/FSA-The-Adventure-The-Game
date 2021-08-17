@@ -1,0 +1,14 @@
+;;; Sierra Script 1.0 - (do not remove this comment)
+;;; 114.shp -- Produced by SCI Companion
+;;; This file should only be edited with the SCI Companion polygon editor
+
+
+(local
+	[P_Default114 51] = [1 PContainedAccess 24 0 138 0 189 319 189 319 159 310 159 300 154 303 137 300 134 302 119 289 112 289 128 283 130 268 120 215 120 213 130 202 133 139 132 140 140 130 140 130 136 118 136 113 139 95 138 84 138]
+	[P_StatueOne 25] = [1 PBarredAccess 11 112 107 114 110 113 114 115 118 115 137 104 137 106 115 104 111 105 109 103 105 110 100]
+	[P_StatueTwo 17] = [1 PBarredAccess 7 267 94 263 97 265 105 262 121 257 121 254 98 260 83]
+	[P_StatueThree 33] = [1 PBarredAccess 15 314 91 319 92 319 157 311 157 304 153 305 139 311 137 303 122 298 112 296 103 302 110 305 108 309 94 305 91 311 83]
+	[P_ThroneRoomCrest 15] = [1 PBarredAccess 6 214 19 213 34 199 41 186 32 186 18 200 12]
+	[P_Serena 17] = [1 PBarredAccess 7 116 61 112 69 105 85 100 81 86 79 100 58 108 56]
+	[P_HotSeat 19] = [1 PBarredAccess 8 215 101 213 130 203 133 193 131 196 120 201 118 201 101 208 99]
+)
